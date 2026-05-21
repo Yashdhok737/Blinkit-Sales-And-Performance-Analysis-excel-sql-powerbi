@@ -1,7 +1,7 @@
 # Blinkit Sales & Performance Analysis
 ### Project Overview
 
-This project focuses on analyzing Blinkit's sales, customer behavior, and outlet performance using Excel, SQL, and Power BI.
+This project focuses on analyzing Blinkit's sales, customer behavior, and outlet performance using Excel, SQL, and Power BI. The project involves data cleaning and preprocessing in Excel, querying and analyzing data with SQL, and creating interactive dashboards in Power BI. It helps identify sales trends, top-performing products, outlet performance, and business insights to support better decision-making and improve overall operational efficiency.
 
 <img width="1401" height="801" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/97f616c8-b2cf-4cc6-b6f5-bdf0c20d4eef" />
 
@@ -33,7 +33,6 @@ The dataset contains information related to:
   - Fat content
   - Outlet size and location
  
-
 ### Project Workflow
 #### 1. Data Cleaning using Excel
  In the initial stage:
@@ -103,7 +102,9 @@ An interactive dashboard was created in Power BI to visualize key business metri
 ### Conclusion
 This project demonstrates how data analytics tools like Excel, SQL, and Power BI can be combined to transform raw business data into meaningful insights. The analysis helps in understanding sales trends, customer behavior, and operational performance for better business decision-making.
 
-### Author
+### Author & Contact
 #### Yash Dhok
+Email : dhokyash4@gmail.com
 
-If you found this project useful, feel free to star the repository and connect with me on GitHub.
+### 🔗 If you like this project
+Feel free to ⭐ the repository and connect with me on GitHub.
